@@ -1,0 +1,76 @@
+Opis strony urodzinowej dla Sabiny w stylu kawaii
+Strona internetowa ma być pełna słodyczy, pastelowych kolorów i uroczego stylu kawaii. Główne motywy to róż, serduszka, pluszaki, kotki i inne urocze elementy. Strona powinna być interaktywna i sprawiać wrażenie personalizowanej niespodzianki dla Sabiny.
+
+1. Strona startowa – pytanie wstępne
+Tło i klimat
+Delikatne pastelowe kolory, z przewagą różu i jasnego fioletu.
+
+Subtelne, animowane chmurki w tle przesuwające się powoli.
+
+Muzyka w tle – delikatna, wesoła melodia w stylu kawaii (np. dźwięki dzwoneczków, piszczałki, cicha elektroniczna muzyczka).
+
+Treść
+Na środku ekranu duże pytanie: „Czy jesteś Sabiną?”
+
+Czcionka w stylu kawaii, np. pisana ręcznie lub przypominająca cukierkowe napisy.
+
+Kolor tekstu: gradient od jasnego różu do fioletu.
+
+Dwa przyciski pod pytaniem:
+
+Tak – w kolorze różowym, otoczony świecącymi gwiazdkami.
+
+Nie – w kolorze szarym, ale po najechaniu zmienia się na ciemnoczerwony.
+
+2. Strona dla „intruzów” – jeśli użytkownik wybierze „Nie”
+Tło i klimat
+Całkowicie czarne tło.
+
+Mroczna, gotycka czcionka, przypominająca horrorowe napisy.
+
+Na środku strony duży, czerwony, pulsujący napis: „TO SPADAJ”.
+
+Po prawej lub na środku ekranu straszne zdjęcie, np. przekrzywiona twarz lalki, postać z mrocznymi oczami, rozmazane widmo itp.
+
+Delikatny efekt dźwiękowy – cichy szept lub nagłe, krótkie przerażające brzmienie po wejściu na stronę.
+
+3. Strona główna dla Sabiny – jeśli użytkownik wybierze „Tak”
+Tło i klimat
+Pastelowo-różowe tło z uroczymi bąbelkami, serduszkami i gwiazdkami.
+
+Subtelna animacja – latające confetti i delikatne błyszczące efekty.
+
+Muzyka w tle – radosna, urocza melodia (np. dźwięki pozytywki lub urocza melodia w stylu anime).
+
+Główny napis
+Na środku wielki, świecący, różowy napis:
+„WSZYSTKIEGO NAJLEPSZEGO Z OKAZJI URODZIN, SABINA!”
+
+Czcionka gruba, puchata, przypominająca watę cukrową.
+
+Ozdobione animowanymi serduszkami i gwiazdkami, które lekko podskakują.
+
+Dekoracje
+Wokół napisu:
+
+Urocze rysunki kotków, króliczków, pluszaków, chibi postaci, wszystkie w pastelowych kolorach.
+
+Postacie z kawaii anime, takie jak Hello Kitty, Pusheen, Rilakkuma.
+
+Animowane ciasteczka, babeczki i lizaki, które delikatnie się obracają.
+
+Słodkie, różowe chmurki, które przesuwają się powoli.
+
+Sekcja interaktywna – przyciski i dodatki
+Przycisk „Kliknij mnie!”, po którego naciśnięciu:
+
+Wyświetli się wiadomość: „Sabina, jesteś najlepsza! Mam nadzieję, że ten dzień będzie pełen radości i słodyczy jak ta strona 💖”
+
+Animowane serduszka wylatują z ekranu.
+
+Przycisk „Otwórz prezent”:
+
+Po kliknięciu pojawi się duża paczka z kokardą, a po sekundzie otworzy się i wylecą animowane confetti i urocze zwierzątka.
+
+Mały, różowy jednorożec, który mruga i wydaje cichy dźwięk „piiii” po najechaniu myszką.
+

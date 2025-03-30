@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urodziny Sabiny</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Strona startowa -->
+    <div id="start-page" class="page active">
+        <div class="clouds"></div>
+        <div class="content">
+            <h1>Czy jesteś Sabiną?</h1>
+            <div class="buttons">
+                <button id="yes-btn" class="btn">Tak</button>
+                <button id="no-btn" class="btn">Nie</button>
+            </div>
+        </div>
+        <audio id="bg-music" loop>
+            <source src="music.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+
+    <!-- Strona dla intruzów -->
+    <div id="intruder-page" class="page">
+        <div class="content">
+            <h1 class="scary">TO SPADAJ</h1>
+            <div class="scary-image">
+                <img src="scary.jpg" alt="Straszne zdjęcie">
+            </div>
+            <button id="scary-back-btn" class="btn">Wróć do strony głównej</button>
+        </div>
+        <audio id="scary-sound">
+            <source src="scary.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+
+    <!-- Strona główna dla Sabiny -->
+    <div id="main-page" class="page">
+        <div class="confetti-container"></div>
+        <div class="content">
+            <h1 class="birthday-text">WSZYSTKIEGO NAJLEPSZEGO<br>Z OKAZJI URODZIN<br>SŁODZIAKU!</h1>
+            <div class="decorations">
+            </div>
+            <div class="buttons">
+                <button id="click-me" class="btn">Kliknij mnie!</button>
+                <button id="open-gift" class="btn">Otwórz prezent</button>
+            </div>
+        </div>
+        <div class="bottom-button">
+            <button id="main-back-btn" class="btn">Wróć do strony głównej</button>
+        </div>
+    </div>
+
+    <!-- Strona z prezentem -->
+    <div id="gift-page" class="page">
+        <div class="content">
+            <h1 class="love-text">KOCHAMY CIE MALUCHU</h1>
+            <div class="gift-image">
+                <img src="sabina.jpg" alt="Sabina">
+            </div>
+            <button id="back-btn" class="btn">Powrót do życzeń</button>
+        </div>
+        <audio id="gift-music" loop>
+            <source src="gift-music.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
